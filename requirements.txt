@@ -1,0 +1,11 @@
+streamlit
+streamlit-components
+pyvis
+networkx
+PyPDF2
+langchain
+langchain_google_genai
+langchain_community
+faiss-cpu
+python-dotenv
+google-generativeai
